@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73111543220",
+    "project_id": "ware-house-app-a3594",
+    "storage_bucket": "ware-house-app-a3594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73111543220:android:be639ce5c832eaaff766e1",
+        "android_client_info": {
+          "package_name": "com.saksham.mybarcodescanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNywGByJD7V91EBCdQWJJ66dutPfDleAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
